@@ -1,19 +1,5 @@
-export default `# Welcome to FakerQL!
-#
-# FakerQL is built on top of faker.js
-#
-# There are a few default queries and
-# mutations you can perform. All available
-# queries and mutations can be found using
-# the Docs link on the right.
-#
-# No queries/mutations are logged.
-#
-# GraphQL endpoint is https://fakerql.com/graphql
-#
-# This application is available opensource
-# on GitHub: https://github.com/notrab/fakerql
-#
+export default `
+
 # An example query might look like:
 #
 # {
